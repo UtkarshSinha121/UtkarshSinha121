@@ -10,17 +10,15 @@
 <p align="left">
   <a href="mailto:utkarshsinha15072002@gmail.com" >   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 <a href="https://www.linkedin.com/in/utkarsh-sinha121" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
- <a href="https://www.leetcode.com/vibhash_dwivedi" target="blank">  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FDFA72&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
-<a href="https://auth.geeksforgeeks.org/user/vibhashdwi1005" target="blank">  <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GFG logo"  /></a>
+<!-- <a href="https://www.leetcode.com/vibhash_dwivedi" target="blank">  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FDFA72&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
+<a href="https://auth.geeksforgeeks.org/user/vibhashdwi1005" target="blank">  <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GFG logo"  /></a> -->
 
 </p>
 <h3 align="left">🛠 Language and tools :</h3>
 <p align="left">
-
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
- <p align="left">
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -43,8 +41,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhashdwivedi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSinha121&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhashdwivedi&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshSinha121&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="languages graph"  />
 </div>
