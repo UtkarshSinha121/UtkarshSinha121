@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vibhash Dwivedi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Utkarsh Sinha</h1>
+<h3 align="center">A passionate Web developer</h3>
 
 <h3 align="left">💬 About me:</h3>
 <h5 align="left">
@@ -8,8 +8,8 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href="mailto:vibhashdwi1005@gmail.com" >   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-<a href="https://linkedin.com/in/vibhash-dwivedi" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:utkarshsinha15072002@gmail.com" >   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a href="https://www.linkedin.com/in/utkarsh-sinha121" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.leetcode.com/vibhash_dwivedi" target="blank">  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FDFA72&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
 <a href="https://auth.geeksforgeeks.org/user/vibhashdwi1005" target="blank">  <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GFG logo"  /></a>
 
