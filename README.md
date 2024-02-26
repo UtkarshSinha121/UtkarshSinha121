@@ -10,14 +10,14 @@
 <p align="left">
   <a href="mailto:utkarshsinha15072002@gmail.com" >   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 <a href="https://www.linkedin.com/in/utkarsh-sinha121" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://www.leetcode.com/vibhash_dwivedi" target="blank">  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FDFA72&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
+ <a href="https://www.leetcode.com/vibhash_dwivedi" target="blank">  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FDFA72&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
 <a href="https://auth.geeksforgeeks.org/user/vibhashdwi1005" target="blank">  <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GFG logo"  /></a>
 
 </p>
 <h3 align="left">🛠 Language and tools :</h3>
 <p align="left">
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
  <p align="left">
